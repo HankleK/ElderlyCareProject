@@ -3,7 +3,7 @@ using Microsoft.CognitiveServices.Speech;
 
 public class AzureSpeechRecognizer : MonoBehaviour
 {
-    private string subscriptionKey = "72e5e5f65f9146818ccbb55bb90f20b0"; // API KEY
+    private string subscriptionKey = "...."; // API KEY
     private string region = "uksouth"; // ServiceRegion
 
     private SpeechRecognizer recognizer;
